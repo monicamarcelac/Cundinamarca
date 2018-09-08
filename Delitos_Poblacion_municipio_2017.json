@@ -1,0 +1,930 @@
+﻿[
+    {
+        "Código_Municipio": "25001",
+        "Municipio": "Agua de Dios",
+        "Total_Hombres": 5468,
+        "Total_Mujeres": 5355,
+        "Poblacion": 10823,
+        "Total_Delitos": 298
+    },
+    {
+        "Código_Municipio": "25019",
+        "Municipio": "Albán",
+        "Total_Hombres": 2994,
+        "Total_Mujeres": 2962,
+        "Poblacion": 5956,
+        "Total_Delitos": 1311
+    },
+    {
+        "Código_Municipio": "25035",
+        "Municipio": "Anapoima",
+        "Total_Hombres": 6857,
+        "Total_Mujeres": 6856,
+        "Poblacion": 13713,
+        "Total_Delitos": 4529
+    },
+    {
+        "Código_Municipio": "25040",
+        "Municipio": "Anolaima",
+        "Total_Hombres": 6298,
+        "Total_Mujeres": 5812,
+        "Poblacion": 12110,
+        "Total_Delitos": 675
+    },
+    {
+        "Código_Municipio": "25053",
+        "Municipio": "Arbeláez",
+        "Total_Hombres": 6404,
+        "Total_Mujeres": 5970,
+        "Poblacion": 12374,
+        "Total_Delitos": 1056
+    },
+    {
+        "Código_Municipio": "25086",
+        "Municipio": "Beltrán",
+        "Total_Hombres": 1102,
+        "Total_Mujeres": 1154,
+        "Poblacion": 2256,
+        "Total_Delitos": 3437
+    },
+    {
+        "Código_Municipio": "25095",
+        "Municipio": "Bituima",
+        "Total_Hombres": 1305,
+        "Total_Mujeres": 1195,
+        "Poblacion": 2500,
+        "Total_Delitos": 1937
+    },
+    {
+        "Código_Municipio": "25099",
+        "Municipio": "Bojacá",
+        "Total_Hombres": 6096,
+        "Total_Mujeres": 6044,
+        "Poblacion": 12140,
+        "Total_Delitos": 1
+    },
+    {
+        "Código_Municipio": "25120",
+        "Municipio": "Cabrera",
+        "Total_Hombres": 2137,
+        "Total_Mujeres": 2319,
+        "Poblacion": 4456,
+        "Total_Delitos": 4537
+    },
+    {
+        "Código_Municipio": "25123",
+        "Municipio": "Cachipay",
+        "Total_Hombres": 5120,
+        "Total_Mujeres": 4668,
+        "Poblacion": 9788,
+        "Total_Delitos": 1384
+    },
+    {
+        "Código_Municipio": "25126",
+        "Municipio": "Cajicá",
+        "Total_Hombres": 29657,
+        "Total_Mujeres": 29541,
+        "Poblacion": 59198,
+        "Total_Delitos": 79
+    },
+    {
+        "Código_Municipio": "25148",
+        "Municipio": "Caparrapí",
+        "Total_Hombres": 8995,
+        "Total_Mujeres": 7725,
+        "Poblacion": 16720,
+        "Total_Delitos": 622
+    },
+    {
+        "Código_Municipio": "25151",
+        "Municipio": "Caqueza",
+        "Total_Hombres": 8793,
+        "Total_Mujeres": 8421,
+        "Poblacion": 17214,
+        "Total_Delitos": 270
+    },
+    {
+        "Código_Municipio": "25154",
+        "Municipio": "Carmen de Carupa",
+        "Total_Hombres": 4617,
+        "Total_Mujeres": 4659,
+        "Poblacion": 9276,
+        "Total_Delitos": 104
+    },
+    {
+        "Código_Municipio": "25168",
+        "Municipio": "Chaguaní",
+        "Total_Hombres": 2074,
+        "Total_Mujeres": 1894,
+        "Poblacion": 3968,
+        "Total_Delitos": 757
+    },
+    {
+        "Código_Municipio": "25175",
+        "Municipio": "Chía",
+        "Total_Hombres": 63836,
+        "Total_Mujeres": 68855,
+        "Poblacion": 132691,
+        "Total_Delitos": 1702
+    },
+    {
+        "Código_Municipio": "25178",
+        "Municipio": "Chipaque",
+        "Total_Hombres": 4381,
+        "Total_Mujeres": 4020,
+        "Poblacion": 8401,
+        "Total_Delitos": 2241
+    },
+    {
+        "Código_Municipio": "25181",
+        "Municipio": "Choachí",
+        "Total_Hombres": 5520,
+        "Total_Mujeres": 5094,
+        "Poblacion": 10614,
+        "Total_Delitos": 5090
+    },
+    {
+        "Código_Municipio": "25183",
+        "Municipio": "Chocontá",
+        "Total_Hombres": 13464,
+        "Total_Mujeres": 13098,
+        "Poblacion": 26562,
+        "Total_Delitos": 34639
+    },
+    {
+        "Código_Municipio": "25200",
+        "Municipio": "Cogua",
+        "Total_Hombres": 11616,
+        "Total_Mujeres": 11598,
+        "Poblacion": 23214,
+        "Total_Delitos": 114171
+    },
+    {
+        "Código_Municipio": "25214",
+        "Municipio": "Cota",
+        "Total_Hombres": 12767,
+        "Total_Mujeres": 13178,
+        "Poblacion": 25945,
+        "Total_Delitos": 99472
+    },
+    {
+        "Código_Municipio": "25224",
+        "Municipio": "Cucunubá",
+        "Total_Hombres": 3942,
+        "Total_Mujeres": 3619,
+        "Poblacion": 7561,
+        "Total_Delitos": 612
+    },
+    {
+        "Código_Municipio": "25245",
+        "Municipio": "El Colegio",
+        "Total_Hombres": 10872,
+        "Total_Mujeres": 11188,
+        "Poblacion": 22060,
+        "Total_Delitos": 665
+    },
+    {
+        "Código_Municipio": "25258",
+        "Municipio": "El Peñón",
+        "Total_Hombres": 2310,
+        "Total_Mujeres": 2476,
+        "Poblacion": 4786,
+        "Total_Delitos": 106708
+    },
+    {
+        "Código_Municipio": "25260",
+        "Municipio": "El Rosal",
+        "Total_Hombres": 9111,
+        "Total_Mujeres": 8934,
+        "Poblacion": 18045,
+        "Total_Delitos": 2641
+    },
+    {
+        "Código_Municipio": "25269",
+        "Municipio": "Facatativá",
+        "Total_Hombres": 68408,
+        "Total_Mujeres": 68542,
+        "Poblacion": 136950,
+        "Total_Delitos": 238
+    },
+    {
+        "Código_Municipio": "25279",
+        "Municipio": "Fomeque",
+        "Total_Hombres": 6394,
+        "Total_Mujeres": 5837,
+        "Poblacion": 12231,
+        "Total_Delitos": 725
+    },
+    {
+        "Código_Municipio": "25281",
+        "Municipio": "Fosca",
+        "Total_Hombres": 3957,
+        "Total_Mujeres": 3783,
+        "Poblacion": 7740,
+        "Total_Delitos": 223
+    },
+    {
+        "Código_Municipio": "25286",
+        "Municipio": "Funza",
+        "Total_Hombres": 37612,
+        "Total_Mujeres": 40534,
+        "Poblacion": 78146,
+        "Total_Delitos": 97
+    },
+    {
+        "Código_Municipio": "25288",
+        "Municipio": "Fúquene",
+        "Total_Hombres": 2884,
+        "Total_Mujeres": 2839,
+        "Poblacion": 5723,
+        "Total_Delitos": 720
+    },
+    {
+        "Código_Municipio": "25290",
+        "Municipio": "Fusagasugá",
+        "Total_Hombres": 69177,
+        "Total_Mujeres": 70628,
+        "Poblacion": 139805,
+        "Total_Delitos": 6609
+    },
+    {
+        "Código_Municipio": "25293",
+        "Municipio": "Gachala",
+        "Total_Hombres": 2803,
+        "Total_Mujeres": 2884,
+        "Poblacion": 5687,
+        "Total_Delitos": 104887
+    },
+    {
+        "Código_Municipio": "25295",
+        "Municipio": "Gachancipá",
+        "Total_Hombres": 7497,
+        "Total_Mujeres": 7726,
+        "Poblacion": 15223,
+        "Total_Delitos": 5756
+    },
+    {
+        "Código_Municipio": "25297",
+        "Municipio": "Gachetá",
+        "Total_Hombres": 5507,
+        "Total_Mujeres": 5729,
+        "Poblacion": 11236,
+        "Total_Delitos": 63510
+    },
+    {
+        "Código_Municipio": "25299",
+        "Municipio": "Gama",
+        "Total_Hombres": 2031,
+        "Total_Mujeres": 1997,
+        "Poblacion": 4028,
+        "Total_Delitos": 289
+    },
+    {
+        "Código_Municipio": "25307",
+        "Municipio": "Girardot",
+        "Total_Hombres": 50182,
+        "Total_Mujeres": 56101,
+        "Poblacion": 106283,
+        "Total_Delitos": 842
+    },
+    {
+        "Código_Municipio": "25312",
+        "Municipio": "Granada",
+        "Total_Hombres": 4511,
+        "Total_Mujeres": 4548,
+        "Poblacion": 9059,
+        "Total_Delitos": 12728
+    },
+    {
+        "Código_Municipio": "25317",
+        "Municipio": "Guachetá",
+        "Total_Hombres": 5881,
+        "Total_Mujeres": 5479,
+        "Poblacion": 11360,
+        "Total_Delitos": 26571
+    },
+    {
+        "Código_Municipio": "25320",
+        "Municipio": "Guaduas",
+        "Total_Hombres": 19829,
+        "Total_Mujeres": 19919,
+        "Poblacion": 39748,
+        "Total_Delitos": 76
+    },
+    {
+        "Código_Municipio": "25322",
+        "Municipio": "Guasca",
+        "Total_Hombres": 7793,
+        "Total_Mujeres": 7453,
+        "Poblacion": 15246,
+        "Total_Delitos": 540
+    },
+    {
+        "Código_Municipio": "25324",
+        "Municipio": "Guataquí",
+        "Total_Hombres": 1314,
+        "Total_Mujeres": 1355,
+        "Poblacion": 2669,
+        "Total_Delitos": 595
+    },
+    {
+        "Código_Municipio": "25326",
+        "Municipio": "Guatavita",
+        "Total_Hombres": 3575,
+        "Total_Mujeres": 3360,
+        "Poblacion": 6935,
+        "Total_Delitos": 773
+    },
+    {
+        "Código_Municipio": "25328",
+        "Municipio": "Guayabal de Siquima",
+        "Total_Hombres": 1865,
+        "Total_Mujeres": 1786,
+        "Poblacion": 3651,
+        "Total_Delitos": 17398
+    },
+    {
+        "Código_Municipio": "25335",
+        "Municipio": "Guayabetal",
+        "Total_Hombres": 2457,
+        "Total_Mujeres": 2527,
+        "Poblacion": 4984,
+        "Total_Delitos": 1982374
+    },
+    {
+        "Código_Municipio": "25339",
+        "Municipio": "Gutiérrez",
+        "Total_Hombres": 2140,
+        "Total_Mujeres": 2102,
+        "Poblacion": 4242,
+        "Total_Delitos": 78
+    },
+    {
+        "Código_Municipio": "25368",
+        "Municipio": "Jerusalén",
+        "Total_Hombres": 1382,
+        "Total_Mujeres": 1290,
+        "Poblacion": 2672,
+        "Total_Delitos": 37
+    },
+    {
+        "Código_Municipio": "25372",
+        "Municipio": "Junín",
+        "Total_Hombres": 4241,
+        "Total_Mujeres": 4431,
+        "Poblacion": 8672,
+        "Total_Delitos": 3742
+    },
+    {
+        "Código_Municipio": "25377",
+        "Municipio": "La Calera",
+        "Total_Hombres": 14116,
+        "Total_Mujeres": 14109,
+        "Poblacion": 28225,
+        "Total_Delitos": 9658
+    },
+    {
+        "Código_Municipio": "25386",
+        "Municipio": "La Mesa",
+        "Total_Hombres": 15922,
+        "Total_Mujeres": 16378,
+        "Poblacion": 32300,
+        "Total_Delitos": 100
+    },
+    {
+        "Código_Municipio": "25394",
+        "Municipio": "La Palma",
+        "Total_Hombres": 5337,
+        "Total_Mujeres": 5575,
+        "Poblacion": 10912,
+        "Total_Delitos": 1064
+    },
+    {
+        "Código_Municipio": "25398",
+        "Municipio": "La Peña",
+        "Total_Hombres": 3445,
+        "Total_Mujeres": 3595,
+        "Poblacion": 7040,
+        "Total_Delitos": 6574
+    },
+    {
+        "Código_Municipio": "25402",
+        "Municipio": "La Vega",
+        "Total_Hombres": 7047,
+        "Total_Mujeres": 7366,
+        "Poblacion": 14413,
+        "Total_Delitos": 157343
+    },
+    {
+        "Código_Municipio": "25407",
+        "Municipio": "Lenguazaque",
+        "Total_Hombres": 5427,
+        "Total_Mujeres": 4925,
+        "Poblacion": 10352,
+        "Total_Delitos": 127
+    },
+    {
+        "Código_Municipio": "25426",
+        "Municipio": "Macheta",
+        "Total_Hombres": 3050,
+        "Total_Mujeres": 3176,
+        "Poblacion": 6226,
+        "Total_Delitos": 980
+    },
+    {
+        "Código_Municipio": "25430",
+        "Municipio": "Madrid",
+        "Total_Hombres": 40363,
+        "Total_Mujeres": 40259,
+        "Poblacion": 80622,
+        "Total_Delitos": 9156
+    },
+    {
+        "Código_Municipio": "25436",
+        "Municipio": "Manta",
+        "Total_Hombres": 2358,
+        "Total_Mujeres": 2396,
+        "Poblacion": 4754,
+        "Total_Delitos": 357
+    },
+    {
+        "Código_Municipio": "25438",
+        "Municipio": "Medina",
+        "Total_Hombres": 5373,
+        "Total_Mujeres": 4789,
+        "Poblacion": 10162,
+        "Total_Delitos": 1270
+    },
+    {
+        "Código_Municipio": "25473",
+        "Municipio": "Mosquera",
+        "Total_Hombres": 43186,
+        "Total_Mujeres": 43768,
+        "Poblacion": 86954,
+        "Total_Delitos": 3353
+    },
+    {
+        "Código_Municipio": "25483",
+        "Municipio": "Nariño",
+        "Total_Hombres": 1079,
+        "Total_Mujeres": 1154,
+        "Poblacion": 2233,
+        "Total_Delitos": 579
+    },
+    {
+        "Código_Municipio": "25486",
+        "Municipio": "Nemocón",
+        "Total_Hombres": 7113,
+        "Total_Mujeres": 6809,
+        "Poblacion": 13922,
+        "Total_Delitos": 1013
+    },
+    {
+        "Código_Municipio": "25488",
+        "Municipio": "Nilo",
+        "Total_Hombres": 13011,
+        "Total_Mujeres": 6317,
+        "Poblacion": 19328,
+        "Total_Delitos": 268
+    },
+    {
+        "Código_Municipio": "25489",
+        "Municipio": "Nimaima",
+        "Total_Hombres": 3412,
+        "Total_Mujeres": 3535,
+        "Poblacion": 6947,
+        "Total_Delitos": 416
+    },
+    {
+        "Código_Municipio": "25491",
+        "Municipio": "Nocaima",
+        "Total_Hombres": 4136,
+        "Total_Mujeres": 3975,
+        "Poblacion": 8111,
+        "Total_Delitos": 362
+    },
+    {
+        "Código_Municipio": "25506",
+        "Municipio": "Venecia",
+        "Total_Hombres": 2167,
+        "Total_Mujeres": 1920,
+        "Poblacion": 4087,
+        "Total_Delitos": 29600
+    },
+    {
+        "Código_Municipio": "25513",
+        "Municipio": "Pacho",
+        "Total_Hombres": 13802,
+        "Total_Mujeres": 13782,
+        "Poblacion": 27584,
+        "Total_Delitos": 30
+    },
+    {
+        "Código_Municipio": "25518",
+        "Municipio": "Paime",
+        "Total_Hombres": 1970,
+        "Total_Mujeres": 2369,
+        "Poblacion": 4339,
+        "Total_Delitos": 84
+    },
+    {
+        "Código_Municipio": "25524",
+        "Municipio": "Pandi",
+        "Total_Hombres": 3049,
+        "Total_Mujeres": 2648,
+        "Poblacion": 5697,
+        "Total_Delitos": 128018
+    },
+    {
+        "Código_Municipio": "25530",
+        "Municipio": "Paratebueno",
+        "Total_Hombres": 4077,
+        "Total_Mujeres": 3705,
+        "Poblacion": 7782,
+        "Total_Delitos": 2
+    },
+    {
+        "Código_Municipio": "25535",
+        "Municipio": "Pasca",
+        "Total_Hombres": 6165,
+        "Total_Mujeres": 6213,
+        "Poblacion": 12378,
+        "Total_Delitos": 61
+    },
+    {
+        "Código_Municipio": "25572",
+        "Municipio": "Puerto Salgar",
+        "Total_Hombres": 10219,
+        "Total_Mujeres": 9118,
+        "Poblacion": 19337,
+        "Total_Delitos": 1327
+    },
+    {
+        "Código_Municipio": "25580",
+        "Municipio": "Pulí",
+        "Total_Hombres": 1510,
+        "Total_Mujeres": 1514,
+        "Poblacion": 3024,
+        "Total_Delitos": 255
+    },
+    {
+        "Código_Municipio": "25592",
+        "Municipio": "Quebradanegra",
+        "Total_Hombres": 2576,
+        "Total_Mujeres": 2183,
+        "Poblacion": 4759,
+        "Total_Delitos": 1
+    },
+    {
+        "Código_Municipio": "25594",
+        "Municipio": "Quetame",
+        "Total_Hombres": 3685,
+        "Total_Mujeres": 3556,
+        "Poblacion": 7241,
+        "Total_Delitos": 670
+    },
+    {
+        "Código_Municipio": "25596",
+        "Municipio": "Quipile",
+        "Total_Hombres": 4213,
+        "Total_Mujeres": 3937,
+        "Poblacion": 8150,
+        "Total_Delitos": 271501
+    },
+    {
+        "Código_Municipio": "25599",
+        "Municipio": "Apulo",
+        "Total_Hombres": 4042,
+        "Total_Mujeres": 3770,
+        "Poblacion": 7812,
+        "Total_Delitos": 1710
+    },
+    {
+        "Código_Municipio": "25612",
+        "Municipio": "Ricaurte",
+        "Total_Hombres": 4802,
+        "Total_Mujeres": 4909,
+        "Poblacion": 9711,
+        "Total_Delitos": 29
+    },
+    {
+        "Código_Municipio": "25645",
+        "Municipio": "San Antonio del Tequendama",
+        "Total_Hombres": 6512,
+        "Total_Mujeres": 6697,
+        "Poblacion": 13209,
+        "Total_Delitos": 3987
+    },
+    {
+        "Código_Municipio": "25649",
+        "Municipio": "San Bernardo",
+        "Total_Hombres": 5263,
+        "Total_Mujeres": 5482,
+        "Poblacion": 10745,
+        "Total_Delitos": 1933
+    },
+    {
+        "Código_Municipio": "25653",
+        "Municipio": "San Cayetano",
+        "Total_Hombres": 2874,
+        "Total_Mujeres": 2477,
+        "Poblacion": 5351,
+        "Total_Delitos": 23
+    },
+    {
+        "Código_Municipio": "25658",
+        "Municipio": "San Francisco",
+        "Total_Hombres": 5151,
+        "Total_Mujeres": 4721,
+        "Poblacion": 9872,
+        "Total_Delitos": 31241
+    },
+    {
+        "Código_Municipio": "25662",
+        "Municipio": "San Juan de Río Seco",
+        "Total_Hombres": 4779,
+        "Total_Mujeres": 4889,
+        "Poblacion": 9668,
+        "Total_Delitos": 2183
+    },
+    {
+        "Código_Municipio": "25718",
+        "Municipio": "Sasaima",
+        "Total_Hombres": 5490,
+        "Total_Mujeres": 5288,
+        "Poblacion": 10778,
+        "Total_Delitos": 935
+    },
+    {
+        "Código_Municipio": "25736",
+        "Municipio": "Sesquilé",
+        "Total_Hombres": 7491,
+        "Total_Mujeres": 7421,
+        "Poblacion": 14912,
+        "Total_Delitos": 3510
+    },
+    {
+        "Código_Municipio": "25740",
+        "Municipio": "Sibaté",
+        "Total_Hombres": 20000,
+        "Total_Mujeres": 19817,
+        "Poblacion": 39817,
+        "Total_Delitos": 811
+    },
+    {
+        "Código_Municipio": "25743",
+        "Municipio": "Silvania",
+        "Total_Hombres": 10547,
+        "Total_Mujeres": 11505,
+        "Poblacion": 22052,
+        "Total_Delitos": 27
+    },
+    {
+        "Código_Municipio": "25745",
+        "Municipio": "Simijaca",
+        "Total_Hombres": 6629,
+        "Total_Mujeres": 6887,
+        "Poblacion": 13516,
+        "Total_Delitos": 1218
+    },
+    {
+        "Código_Municipio": "25754",
+        "Municipio": "Soacha",
+        "Total_Hombres": 263515,
+        "Total_Mujeres": 270203,
+        "Poblacion": 533718,
+        "Total_Delitos": 160
+    },
+    {
+        "Código_Municipio": "25758",
+        "Municipio": "Sopó",
+        "Total_Hombres": 13863,
+        "Total_Mujeres": 14069,
+        "Poblacion": 27932,
+        "Total_Delitos": 8770
+    },
+    {
+        "Código_Municipio": "25769",
+        "Municipio": "Subachoque",
+        "Total_Hombres": 8557,
+        "Total_Mujeres": 8193,
+        "Poblacion": 16750,
+        "Total_Delitos": 899
+    },
+    {
+        "Código_Municipio": "25772",
+        "Municipio": "Suesca",
+        "Total_Hombres": 8845,
+        "Total_Mujeres": 9166,
+        "Poblacion": 18011,
+        "Total_Delitos": 829
+    },
+    {
+        "Código_Municipio": "25777",
+        "Municipio": "Supatá",
+        "Total_Hombres": 2433,
+        "Total_Mujeres": 2594,
+        "Poblacion": 5027,
+        "Total_Delitos": 1542496
+    },
+    {
+        "Código_Municipio": "25779",
+        "Municipio": "Susa",
+        "Total_Hombres": 6541,
+        "Total_Mujeres": 6346,
+        "Poblacion": 12887,
+        "Total_Delitos": 2
+    },
+    {
+        "Código_Municipio": "25781",
+        "Municipio": "Sutatausa",
+        "Total_Hombres": 2994,
+        "Total_Mujeres": 2731,
+        "Poblacion": 5725,
+        "Total_Delitos": 186
+    },
+    {
+        "Código_Municipio": "25785",
+        "Municipio": "Tabio",
+        "Total_Hombres": 14240,
+        "Total_Mujeres": 14133,
+        "Poblacion": 28373,
+        "Total_Delitos": 1420
+    },
+    {
+        "Código_Municipio": "25793",
+        "Municipio": "Tausa",
+        "Total_Hombres": 4872,
+        "Total_Mujeres": 4134,
+        "Poblacion": 9006,
+        "Total_Delitos": 205
+    },
+    {
+        "Código_Municipio": "25797",
+        "Municipio": "Tena",
+        "Total_Hombres": 4465,
+        "Total_Mujeres": 4758,
+        "Poblacion": 9223,
+        "Total_Delitos": 1336
+    },
+    {
+        "Código_Municipio": "25799",
+        "Municipio": "Tenjo",
+        "Total_Hombres": 10002,
+        "Total_Mujeres": 10068,
+        "Poblacion": 20070,
+        "Total_Delitos": 96477
+    },
+    {
+        "Código_Municipio": "25805",
+        "Municipio": "Tibacuy",
+        "Total_Hombres": 2308,
+        "Total_Mujeres": 2514,
+        "Poblacion": 4822,
+        "Total_Delitos": 28
+    },
+    {
+        "Código_Municipio": "25807",
+        "Municipio": "Tibirita",
+        "Total_Hombres": 1496,
+        "Total_Mujeres": 1447,
+        "Poblacion": 2943,
+        "Total_Delitos": 795
+    },
+    {
+        "Código_Municipio": "25815",
+        "Municipio": "Tocaima",
+        "Total_Hombres": 9400,
+        "Total_Mujeres": 9201,
+        "Poblacion": 18601,
+        "Total_Delitos": 4
+    },
+    {
+        "Código_Municipio": "25817",
+        "Municipio": "Tocancipá",
+        "Total_Hombres": 16817,
+        "Total_Mujeres": 16860,
+        "Poblacion": 33677,
+        "Total_Delitos": 4172
+    },
+    {
+        "Código_Municipio": "25823",
+        "Municipio": "Topaipí",
+        "Total_Hombres": 2427,
+        "Total_Mujeres": 2077,
+        "Poblacion": 4504,
+        "Total_Delitos": 2100
+    },
+    {
+        "Código_Municipio": "25839",
+        "Municipio": "Ubalá",
+        "Total_Hombres": 5744,
+        "Total_Mujeres": 4723,
+        "Poblacion": 10467,
+        "Total_Delitos": 5015
+    },
+    {
+        "Código_Municipio": "25841",
+        "Municipio": "Ubaque",
+        "Total_Hombres": 3139,
+        "Total_Mujeres": 2897,
+        "Poblacion": 6036,
+        "Total_Delitos": 1079
+    },
+    {
+        "Código_Municipio": "25843",
+        "Municipio": "Ubate",
+        "Total_Hombres": 19085,
+        "Total_Mujeres": 20120,
+        "Poblacion": 39205,
+        "Total_Delitos": 3239
+    },
+    {
+        "Código_Municipio": "25845",
+        "Municipio": "Une",
+        "Total_Hombres": 4710,
+        "Total_Mujeres": 4725,
+        "Poblacion": 9435,
+        "Total_Delitos": 923
+    },
+    {
+        "Código_Municipio": "25851",
+        "Municipio": "Útica",
+        "Total_Hombres": 2507,
+        "Total_Mujeres": 2516,
+        "Poblacion": 5023,
+        "Total_Delitos": 883
+    },
+    {
+        "Código_Municipio": "25862",
+        "Municipio": "Vergara",
+        "Total_Hombres": 3844,
+        "Total_Mujeres": 3860,
+        "Poblacion": 7704,
+        "Total_Delitos": 1012
+    },
+    {
+        "Código_Municipio": "25867",
+        "Municipio": "Vianí",
+        "Total_Hombres": 2065,
+        "Total_Mujeres": 2149,
+        "Poblacion": 4214,
+        "Total_Delitos": 433
+    },
+    {
+        "Código_Municipio": "25871",
+        "Municipio": "Villagómez",
+        "Total_Hombres": 1049,
+        "Total_Mujeres": 1117,
+        "Poblacion": 2166,
+        "Total_Delitos": 52
+    },
+    {
+        "Código_Municipio": "25873",
+        "Municipio": "Villapinzón",
+        "Total_Hombres": 10512,
+        "Total_Mujeres": 9879,
+        "Poblacion": 20391,
+        "Total_Delitos": 58
+    },
+    {
+        "Código_Municipio": "25875",
+        "Municipio": "Villeta",
+        "Total_Hombres": 12657,
+        "Total_Mujeres": 12724,
+        "Poblacion": 25381,
+        "Total_Delitos": 11387
+    },
+    {
+        "Código_Municipio": "25878",
+        "Municipio": "Viotá",
+        "Total_Hombres": 6659,
+        "Total_Mujeres": 6680,
+        "Poblacion": 13339,
+        "Total_Delitos": 1949
+    },
+    {
+        "Código_Municipio": "25885",
+        "Municipio": "Yacopí",
+        "Total_Hombres": 8569,
+        "Total_Mujeres": 8498,
+        "Poblacion": 17067,
+        "Total_Delitos": 822
+    },
+    {
+        "Código_Municipio": "25898",
+        "Municipio": "Zipacón",
+        "Total_Hombres": 2967,
+        "Total_Mujeres": 2728,
+        "Poblacion": 5695,
+        "Total_Delitos": 274
+    },
+    {
+        "Código_Municipio": "25899",
+        "Municipio": "Zipaquirá",
+        "Total_Hombres": 62227,
+        "Total_Mujeres": 64182,
+        "Poblacion": 126409,
+        "Total_Delitos": 67
+    }
+]
