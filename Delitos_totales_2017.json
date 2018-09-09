@@ -1,82 +1,102 @@
 ﻿[
     {
         "Delito": "Abigeato",
-        "Sum_Total_Delitos": 161
+        "Sum_Total_Delitos": 161,
+        "Share": 0.00325
     },
     {
         "Delito": "Amenaza",
-        "Sum_Total_Delitos": 1458
+        "Sum_Total_Delitos": 1458,
+        "Share": 0.0295
     },
     {
         "Delito": "Delito Sexual",
-        "Sum_Total_Delitos": 1702
+        "Sum_Total_Delitos": 1702,
+        "Share": 0.034
     },
     {
         "Delito": "Extorsión",
-        "Sum_Total_Delitos": 169
+        "Sum_Total_Delitos": 169,
+        "Share": 0.0034
     },
     {
         "Delito": "Homicidio",
-        "Sum_Total_Delitos": 697
+        "Sum_Total_Delitos": 697,
+        "Share": 0.014
     },
     {
         "Delito": "Homicidio Accidente De Tránsito",
-        "Sum_Total_Delitos": 372
+        "Sum_Total_Delitos": 372,
+        "Share": 0.0075
     },
     {
         "Delito": "Hurto A Personas",
-        "Sum_Total_Delitos": 4486
+        "Sum_Total_Delitos": 4486,
+        "Share": 0.09
     },
     {
         "Delito": "Hurto A Residencias",
-        "Sum_Total_Delitos": 812
+        "Sum_Total_Delitos": 812,
+        "Share": 0.01625
     },
     {
         "Delito": "Hurto Automotores",
-        "Sum_Total_Delitos": 96
+        "Sum_Total_Delitos": 96,
+        "Share": 0.001925
     },
     {
         "Delito": "Hurto Celulares",
-        "Sum_Total_Delitos": 1777
+        "Sum_Total_Delitos": 1777,
+        "Share": 0.0355
     },
     {
         "Delito": "Hurto Comercio",
-        "Sum_Total_Delitos": 332
+        "Sum_Total_Delitos": 332,
+        "Share": 0.0067
     },
     {
         "Delito": "Hurto Entidad Financiera",
-        "Sum_Total_Delitos": 3
+        "Sum_Total_Delitos": 3,
+        "Share": 0.00006
     },
     {
         "Delito": "Hurto Motocicletas",
-        "Sum_Total_Delitos": 107
+        "Sum_Total_Delitos": 107,
+        "Share": 0.00215
     },
     {
         "Delito": "Incautación Arma Fuego",
-        "Sum_Total_Delitos": 1364
+        "Sum_Total_Delitos": 1364,
+        "Share": 0.0275
     },
     {
         "Delito": "Incautación Estupefacientes",
-        "Sum_Total_Delitos": 4948761
+        "Sum_Total_Delitos": 4948761,
+        "Share": 99
     },
     {
         "Delito": "Lesiones Accidentales Tránsito",
-        "Sum_Total_Delitos": 3967
+        "Sum_Total_Delitos": 3967,
+        "Share": 0.08
     },
     {
         "Delito": "Lesiones Personales",
-        "Sum_Total_Delitos": 6754
+        "Sum_Total_Delitos": 6754,
+        "Share": 0.135
     },
     {
         "Delito": "Piratería Terrestre",
-        "Sum_Total_Delitos": 22
+        "Sum_Total_Delitos": 22,
+        "Share": 0.00044
     },
     {
         "Delito": "Secuestro",
-        "Sum_Total_Delitos": 1
+        "Sum_Total_Delitos": 1,
+        "Share": 0.00002
     },
     {
         "Delito": "Violencia Intrafamiliar",
-        "Sum_Total_Delitos": 3553
+        "Sum_Total_Delitos": 3553,
+        "Share": 0.071
     }
 ]
