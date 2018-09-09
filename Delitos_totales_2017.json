@@ -1,0 +1,82 @@
+﻿[
+    {
+        "Delito": "Abigeato",
+        "Sum_Total_Delitos": 161
+    },
+    {
+        "Delito": "Amenaza",
+        "Sum_Total_Delitos": 1458
+    },
+    {
+        "Delito": "Delito Sexual",
+        "Sum_Total_Delitos": 1702
+    },
+    {
+        "Delito": "Extorsión",
+        "Sum_Total_Delitos": 169
+    },
+    {
+        "Delito": "Homicidio",
+        "Sum_Total_Delitos": 697
+    },
+    {
+        "Delito": "Homicidio Accidente De Tránsito",
+        "Sum_Total_Delitos": 372
+    },
+    {
+        "Delito": "Hurto A Personas",
+        "Sum_Total_Delitos": 4486
+    },
+    {
+        "Delito": "Hurto A Residencias",
+        "Sum_Total_Delitos": 812
+    },
+    {
+        "Delito": "Hurto Automotores",
+        "Sum_Total_Delitos": 96
+    },
+    {
+        "Delito": "Hurto Celulares",
+        "Sum_Total_Delitos": 1777
+    },
+    {
+        "Delito": "Hurto Comercio",
+        "Sum_Total_Delitos": 332
+    },
+    {
+        "Delito": "Hurto Entidad Financiera",
+        "Sum_Total_Delitos": 3
+    },
+    {
+        "Delito": "Hurto Motocicletas",
+        "Sum_Total_Delitos": 107
+    },
+    {
+        "Delito": "Incautación Arma Fuego",
+        "Sum_Total_Delitos": 1364
+    },
+    {
+        "Delito": "Incautación Estupefacientes",
+        "Sum_Total_Delitos": 4948761
+    },
+    {
+        "Delito": "Lesiones Accidentales Tránsito",
+        "Sum_Total_Delitos": 3967
+    },
+    {
+        "Delito": "Lesiones Personales",
+        "Sum_Total_Delitos": 6754
+    },
+    {
+        "Delito": "Piratería Terrestre",
+        "Sum_Total_Delitos": 22
+    },
+    {
+        "Delito": "Secuestro",
+        "Sum_Total_Delitos": 1
+    },
+    {
+        "Delito": "Violencia Intrafamiliar",
+        "Sum_Total_Delitos": 3553
+    }
+]
