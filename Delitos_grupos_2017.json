@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Sum_Share": null,
+        "Sum_Total_Delitos": 4948761,
+        "Delito": "Incautación Estupefacientes",
+        "Share": 99
+    },
+    {
+        "Sum_Share": 0.558195,
+        "Sum_Total_Delitos": 27833,
+        "Delito": "Otros",
+        "Share": null
+    }
+]
