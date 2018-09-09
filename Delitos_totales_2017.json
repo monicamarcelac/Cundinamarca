@@ -2,101 +2,121 @@
     {
         "Delito": "Abigeato",
         "Sum_Total_Delitos": 161,
-        "Share": 0.00325
+        "Share": 0.00325,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Amenaza",
         "Sum_Total_Delitos": 1458,
-        "Share": 0.0295
+        "Share": 0.0295,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Delito Sexual",
         "Sum_Total_Delitos": 1702,
-        "Share": 0.034
+        "Share": 0.034,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Extorsión",
         "Sum_Total_Delitos": 169,
-        "Share": 0.0034
+        "Share": 0.0034,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Homicidio",
         "Sum_Total_Delitos": 697,
-        "Share": 0.014
+        "Share": 0.014,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Homicidio Accidente De Tránsito",
         "Sum_Total_Delitos": 372,
-        "Share": 0.0075
+        "Share": 0.0075,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto A Personas",
         "Sum_Total_Delitos": 4486,
-        "Share": 0.09
+        "Share": 0.09,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto A Residencias",
         "Sum_Total_Delitos": 812,
-        "Share": 0.01625
+        "Share": 0.01625,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto Automotores",
         "Sum_Total_Delitos": 96,
-        "Share": 0.001925
+        "Share": 0.001925,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto Celulares",
         "Sum_Total_Delitos": 1777,
-        "Share": 0.0355
+        "Share": 0.0355,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto Comercio",
         "Sum_Total_Delitos": 332,
-        "Share": 0.0067
+        "Share": 0.0067,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto Entidad Financiera",
         "Sum_Total_Delitos": 3,
-        "Share": 0.00006
+        "Share": 0.00006,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Hurto Motocicletas",
         "Sum_Total_Delitos": 107,
-        "Share": 0.00215
+        "Share": 0.00215,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Incautación Arma Fuego",
         "Sum_Total_Delitos": 1364,
-        "Share": 0.0275
+        "Share": 0.0275,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Incautación Estupefacientes",
         "Sum_Total_Delitos": 4948761,
-        "Share": 99
+        "Share": 99,
+        "Grupo": "Estupefacientes"
     },
     {
         "Delito": "Lesiones Accidentales Tránsito",
         "Sum_Total_Delitos": 3967,
-        "Share": 0.08
+        "Share": 0.08,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Lesiones Personales",
         "Sum_Total_Delitos": 6754,
-        "Share": 0.135
+        "Share": 0.135,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Piratería Terrestre",
         "Sum_Total_Delitos": 22,
-        "Share": 0.00044
+        "Share": 0.00044,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Secuestro",
         "Sum_Total_Delitos": 1,
-        "Share": 0.00002
+        "Share": 0.00002,
+        "Grupo": "Otros"
     },
     {
         "Delito": "Violencia Intrafamiliar",
         "Sum_Total_Delitos": 3553,
-        "Share": 0.071
+        "Share": 0.071,
+        "Grupo": "Otros"
     }
 ]
