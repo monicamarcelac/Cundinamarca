@@ -1,13 +1,28 @@
 ﻿[
     {
-        "Delito": "Abigeato",
-        "Total_Delitos": 161,
-        "Share": 0.0058
+        "Delito": "Lesiones Personales",
+        "Total_Delitos": 6754,
+        "Share": 0.2425
     },
     {
-        "Delito": "Amenaza",
-        "Total_Delitos": 1458,
-        "Share": 0.052
+        "Delito": "Hurto A Personas",
+        "Total_Delitos": 4486,
+        "Share": 0.16
+    },
+    {
+        "Delito": "Lesiones Accidentales Tránsito",
+        "Total_Delitos": 3967,
+        "Share": 0.1425
+    },
+    {
+        "Delito": "Violencia Intrafamiliar",
+        "Total_Delitos": 3553,
+        "Share": 0.1275
+    },
+    {
+        "Delito": "Hurto Celulares",
+        "Total_Delitos": 1777,
+        "Share": 0.064
     },
     {
         "Delito": "Delito Sexual",
@@ -15,9 +30,19 @@
         "Share": 0.061
     },
     {
-        "Delito": "Extorsión",
-        "Total_Delitos": 169,
-        "Share": 0.0061
+        "Delito": "Amenaza",
+        "Total_Delitos": 1458,
+        "Share": 0.052
+    },
+    {
+        "Delito": "Incautación Arma Fuego",
+        "Total_Delitos": 1364,
+        "Share": 0.049
+    },
+    {
+        "Delito": "Hurto A Residencias",
+        "Total_Delitos": 812,
+        "Share": 0.029
     },
     {
         "Delito": "Homicidio",
@@ -30,34 +55,19 @@
         "Share": 0.01325
     },
     {
-        "Delito": "Hurto A Personas",
-        "Total_Delitos": 4486,
-        "Share": 0.16
-    },
-    {
-        "Delito": "Hurto A Residencias",
-        "Total_Delitos": 812,
-        "Share": 0.029
-    },
-    {
-        "Delito": "Hurto Automotores",
-        "Total_Delitos": 96,
-        "Share": 0.00345
-    },
-    {
-        "Delito": "Hurto Celulares",
-        "Total_Delitos": 1777,
-        "Share": 0.064
-    },
-    {
         "Delito": "Hurto Comercio",
         "Total_Delitos": 332,
         "Share": 0.011875
     },
     {
-        "Delito": "Hurto Entidad Financiera",
-        "Total_Delitos": 3,
-        "Share": 0.0001075
+        "Delito": "Extorsión",
+        "Total_Delitos": 169,
+        "Share": 0.0061
+    },
+    {
+        "Delito": "Abigeato",
+        "Total_Delitos": 161,
+        "Share": 0.0058
     },
     {
         "Delito": "Hurto Motocicletas",
@@ -65,19 +75,9 @@
         "Share": 0.00385
     },
     {
-        "Delito": "Incautación Arma Fuego",
-        "Total_Delitos": 1364,
-        "Share": 0.049
-    },
-    {
-        "Delito": "Lesiones Accidentales Tránsito",
-        "Total_Delitos": 3967,
-        "Share": 0.1425
-    },
-    {
-        "Delito": "Lesiones Personales",
-        "Total_Delitos": 6754,
-        "Share": 0.2425
+        "Delito": "Hurto Automotores",
+        "Total_Delitos": 96,
+        "Share": 0.00345
     },
     {
         "Delito": "Piratería Terrestre",
@@ -85,13 +85,13 @@
         "Share": 0.00079
     },
     {
+        "Delito": "Hurto Entidad Financiera",
+        "Total_Delitos": 3,
+        "Share": 0.0001075
+    },
+    {
         "Delito": "Secuestro",
         "Total_Delitos": 1,
         "Share": 0.000036
-    },
-    {
-        "Delito": "Violencia Intrafamiliar",
-        "Total_Delitos": 3553,
-        "Share": 0.1275
     }
 ]
