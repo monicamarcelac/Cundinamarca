@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Genero": "Hombres",
+        "Rango_Edad": "0-5",
+        "Sum_Poblacion": 18019
+    },
+    {
+        "Genero": "Hombres",
+        "Rango_Edad": "12-17",
+        "Sum_Poblacion": 17424
+    },
+    {
+        "Genero": "Hombres",
+        "Rango_Edad": "18-28",
+        "Sum_Poblacion": 31952
+    },
+    {
+        "Genero": "Hombres",
+        "Rango_Edad": "29-59",
+        "Sum_Poblacion": 61432
+    },
+    {
+        "Genero": "Hombres",
+        "Rango_Edad": "6-11",
+        "Sum_Poblacion": 17560
+    },
+    {
+        "Genero": "Hombres",
+        "Rango_Edad": "60+",
+        "Sum_Poblacion": 17992
+    },
+    {
+        "Genero": "Mujeres",
+        "Rango_Edad": "0-5",
+        "Sum_Poblacion": 17167
+    },
+    {
+        "Genero": "Mujeres",
+        "Rango_Edad": "12-17",
+        "Sum_Poblacion": 16930
+    },
+    {
+        "Genero": "Mujeres",
+        "Rango_Edad": "18-28",
+        "Sum_Poblacion": 31066
+    },
+    {
+        "Genero": "Mujeres",
+        "Rango_Edad": "29-59",
+        "Sum_Poblacion": 61140
+    },
+    {
+        "Genero": "Mujeres",
+        "Rango_Edad": "6-11",
+        "Sum_Poblacion": 17088
+    },
+    {
+        "Genero": "Mujeres",
+        "Rango_Edad": "60+",
+        "Sum_Poblacion": 20258
+    }
+]
