@@ -1,86 +1,86 @@
 [
     {
         "Group": "Hombres 0-5",
-        "allData": -0.051,
+        "All Data": -0.051,
         "Top50": -0.135,
-        "NoOutliers": -0.14
+        "No Outliers": -0.14
     },
     {
         "Group": "Hombres 6-11",
-        "allData": -0.052,
+        "All Data": -0.052,
         "Top50": -0.135,
-        "NoOutliers": -0.14
+        "No Outliers": -0.14
     },
     {
         "Group": "Hombres 12-17",
-        "allData": -0.052,
+        "All Data": -0.052,
         "Top50": -0.135,
-        "NoOutliers": -0.14
+        "No Outliers": -0.14
     },
     {
         "Group": "Hombres 18-28",
-        "allData": -0.054,
+        "All Data": -0.054,
         "Top50": -0.1325,
-        "NoOutliers": -0.135
+        "No Outliers": -0.135
     },
     {
         "Group": "Hombres 29-59",
-        "allData": -0.055,
+        "All Data": -0.055,
         "Top50": -0.13,
-        "NoOutliers": -0.1375
+        "No Outliers": -0.1375
     },
     {
         "Group": "Hombres 60+",
-        "allData": -0.053,
+        "All Data": -0.053,
         "Top50": -0.1,
-        "NoOutliers": -0.105
+        "No Outliers": -0.105
     },
     {
         "Group": "Total_Hombres",
-        "allData": -0.054,
+        "All Data": -0.054,
         "Top50": -0.13,
-        "NoOutliers": -0.135
+        "No Outliers": -0.135
     },
     {
         "Group": "Mujeres 0--5",
-        "allData": -0.051,
+        "All Data": -0.051,
         "Top50": -0.135,
-        "NoOutliers": -0.14
+        "No Outliers": -0.14
     },
     {
         "Group": "Mujeres 6-11",
-        "allData": -0.051,
+        "All Data": -0.051,
         "Top50": -0.1325,
-        "NoOutliers": -0.14
+        "No Outliers": -0.14
     },
     {
         "Group": "Mujeres 12-17",
-        "allData": -0.051,
+        "All Data": -0.051,
         "Top50": -0.13,
-        "NoOutliers": -0.14
+        "No Outliers": -0.14
     },
     {
         "Group": "Mujeres 18-28",
-        "allData": -0.051,
+        "All Data": -0.051,
         "Top50": -0.1275,
-        "NoOutliers": -0.135
+        "No Outliers": -0.135
     },
     {
         "Group": "Mujeres 29-59",
-        "allData": -0.053,
+        "All Data": -0.053,
         "Top50": -0.12375,
-        "NoOutliers": -0.135
+        "No Outliers": -0.135
     },
     {
         "Group": "Mujeres 60+",
-        "allData": -0.053,
+        "All Data": -0.053,
         "Top50": -0.099,
-        "NoOutliers": -0.11
+        "No Outliers": -0.11
     },
     {
         "Group": "Total_Mujeres",
-        "allData": -0.052,
+        "All Data": -0.052,
         "Top50": -0.125,
-        "NoOutliers": -0.1325
+        "No Outliers": -0.1325
     }
 ]
