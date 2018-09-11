@@ -1,0 +1,2722 @@
+﻿[
+    {
+        "cod mun": "25001",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 16,
+        "Municipio": "Agua de Dios",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25001",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 237,
+        "Municipio": "Agua de Dios",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25019",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 20,
+        "Municipio": "Albán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25019",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 371,
+        "Municipio": "Albán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25019",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 23,
+        "Municipio": "Albán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25019",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 835,
+        "Municipio": "Albán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25035",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 301,
+        "Municipio": "Anapoima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25035",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1319,
+        "Municipio": "Anapoima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25035",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 108,
+        "Municipio": "Anapoima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25035",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 1,
+        "Municipio": "Anapoima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25035",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2414,
+        "Municipio": "Anapoima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25040",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 2,
+        "Municipio": "Anolaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25040",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 60,
+        "Municipio": "Anolaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25040",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 31,
+        "Municipio": "Anolaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25040",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 534,
+        "Municipio": "Anolaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25053",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 15,
+        "Municipio": "Arbeláez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25053",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 138,
+        "Municipio": "Arbeláez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25053",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 12,
+        "Municipio": "Arbeláez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25053",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 775,
+        "Municipio": "Arbeláez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25086",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 24,
+        "Municipio": "Beltrán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25086",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 2156,
+        "Municipio": "Beltrán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25086",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 340,
+        "Municipio": "Beltrán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25086",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 823,
+        "Municipio": "Beltrán",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25095",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 273,
+        "Municipio": "Bituima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25095",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 318,
+        "Municipio": "Bituima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25095",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 78,
+        "Municipio": "Bituima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25095",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1146,
+        "Municipio": "Bituima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25120",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 4374,
+        "Municipio": "Cabrera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25123",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 20,
+        "Municipio": "Cachipay",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25123",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 302,
+        "Municipio": "Cachipay",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25123",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 93,
+        "Municipio": "Cachipay",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25123",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 884,
+        "Municipio": "Cachipay",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25148",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 30,
+        "Municipio": "Caparrapí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25148",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 35,
+        "Municipio": "Caparrapí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25148",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 5,
+        "Municipio": "Caparrapí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25148",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 457,
+        "Municipio": "Caparrapí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25151",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 5,
+        "Municipio": "Caqueza",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25151",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 235,
+        "Municipio": "Caqueza",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25154",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 1,
+        "Municipio": "Carmen de Carupa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25154",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 13,
+        "Municipio": "Carmen de Carupa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25154",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 15,
+        "Municipio": "Carmen de Carupa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25168",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 5,
+        "Municipio": "Chaguaní",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25168",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 36,
+        "Municipio": "Chaguaní",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25168",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 685,
+        "Municipio": "Chaguaní",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25175",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1357,
+        "Municipio": "Chía",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25178",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 179,
+        "Municipio": "Chipaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25178",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 848,
+        "Municipio": "Chipaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25178",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 154,
+        "Municipio": "Chipaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25178",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 687,
+        "Municipio": "Chipaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25181",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 366,
+        "Municipio": "Choachí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25181",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1594,
+        "Municipio": "Choachí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25181",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 269,
+        "Municipio": "Choachí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25181",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2677,
+        "Municipio": "Choachí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25183",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 1796,
+        "Municipio": "Chocontá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25183",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 3934,
+        "Municipio": "Chocontá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25183",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 1385,
+        "Municipio": "Chocontá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25183",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 26685,
+        "Municipio": "Chocontá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25200",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 21,
+        "Municipio": "Cogua",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25200",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 2,
+        "Municipio": "Cogua",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25200",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 13,
+        "Municipio": "Cogua",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25200",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 113940,
+        "Municipio": "Cogua",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25214",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 985,
+        "Municipio": "Cota",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25214",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 8272,
+        "Municipio": "Cota",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25214",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 1521,
+        "Municipio": "Cota",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25214",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 2,
+        "Municipio": "Cota",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25214",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 87001,
+        "Municipio": "Cota",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25245",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 75,
+        "Municipio": "El Colegio",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25245",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 377,
+        "Municipio": "El Colegio",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25245",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 55,
+        "Municipio": "El Colegio",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25245",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 42,
+        "Municipio": "El Colegio",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25258",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 20,
+        "Municipio": "El Peñón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25258",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 59,
+        "Municipio": "El Peñón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25258",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 368,
+        "Municipio": "El Peñón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25258",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 105881,
+        "Municipio": "El Peñón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25260",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 82,
+        "Municipio": "El Rosal",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25260",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 284,
+        "Municipio": "El Rosal",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25260",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 12,
+        "Municipio": "El Rosal",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25260",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2137,
+        "Municipio": "El Rosal",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25279",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 36,
+        "Municipio": "Fomeque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25279",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 59,
+        "Municipio": "Fomeque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25279",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 44,
+        "Municipio": "Fomeque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25279",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 520,
+        "Municipio": "Fomeque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25281",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 5,
+        "Municipio": "Fosca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25281",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 28,
+        "Municipio": "Fosca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25281",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 3,
+        "Municipio": "Fosca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25281",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 155,
+        "Municipio": "Fosca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25288",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 136,
+        "Municipio": "Fúquene",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25288",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 8,
+        "Municipio": "Fúquene",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25288",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 483,
+        "Municipio": "Fúquene",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25290",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 361,
+        "Municipio": "Fusagasugá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25290",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1718,
+        "Municipio": "Fusagasugá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25290",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 509,
+        "Municipio": "Fusagasugá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25290",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2633,
+        "Municipio": "Fusagasugá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25293",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 12520,
+        "Municipio": "Gachala",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25293",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 28004,
+        "Municipio": "Gachala",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25293",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 2050,
+        "Municipio": "Gachala",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25293",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 61129,
+        "Municipio": "Gachala",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25295",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 502,
+        "Municipio": "Gachancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25295",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1391,
+        "Municipio": "Gachancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25295",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 318,
+        "Municipio": "Gachancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25295",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 3294,
+        "Municipio": "Gachancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25297",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 2847,
+        "Municipio": "Gachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25297",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 41,
+        "Municipio": "Gachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25297",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 7,
+        "Municipio": "Gachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25297",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 60506,
+        "Municipio": "Gachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25307",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 26,
+        "Municipio": "Girardot",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25307",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 605,
+        "Municipio": "Girardot",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25307",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 75,
+        "Municipio": "Girardot",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25307",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 35,
+        "Municipio": "Girardot",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25307",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 11,
+        "Municipio": "Girardot",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25312",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 402,
+        "Municipio": "Granada",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25312",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 817,
+        "Municipio": "Granada",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25312",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 128,
+        "Municipio": "Granada",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25312",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 11105,
+        "Municipio": "Granada",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25317",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 20,
+        "Municipio": "Guachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25317",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 14,
+        "Municipio": "Guachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25317",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 26412,
+        "Municipio": "Guachetá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25322",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 47,
+        "Municipio": "Guasca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25322",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 7,
+        "Municipio": "Guasca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25322",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 456,
+        "Municipio": "Guasca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25324",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 5,
+        "Municipio": "Guataquí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25324",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 65,
+        "Municipio": "Guataquí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25324",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 10,
+        "Municipio": "Guataquí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25324",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 498,
+        "Municipio": "Guataquí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25326",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 28,
+        "Municipio": "Guatavita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25326",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 178,
+        "Municipio": "Guatavita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25326",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 36,
+        "Municipio": "Guatavita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25326",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 449,
+        "Municipio": "Guatavita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25328",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 10,
+        "Municipio": "Guayabal de Siquima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25328",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 15454,
+        "Municipio": "Guayabal de Siquima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25328",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 874,
+        "Municipio": "Guayabal de Siquima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25328",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 2,
+        "Municipio": "Guayabal de Siquima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25328",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 943,
+        "Municipio": "Guayabal de Siquima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25335",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1981631,
+        "Municipio": "Guayabetal",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25339",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 17,
+        "Municipio": "Gutiérrez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25339",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 30,
+        "Municipio": "Gutiérrez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25368",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 2,
+        "Municipio": "Jerusalén",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25368",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 8,
+        "Municipio": "Jerusalén",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25368",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 18,
+        "Municipio": "Jerusalén",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25372",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 36,
+        "Municipio": "Junín",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25372",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 124,
+        "Municipio": "Junín",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25372",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 34,
+        "Municipio": "Junín",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25372",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 3449,
+        "Municipio": "Junín",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25377",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 2,
+        "Municipio": "La Calera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25377",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 9215,
+        "Municipio": "La Calera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25394",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 57,
+        "Municipio": "La Palma",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25394",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 67,
+        "Municipio": "La Palma",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25394",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 110,
+        "Municipio": "La Palma",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25394",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 718,
+        "Municipio": "La Palma",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25398",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 6338,
+        "Municipio": "La Peña",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25402",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 85102,
+        "Municipio": "La Vega",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25402",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 205,
+        "Municipio": "La Vega",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25402",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 70060,
+        "Municipio": "La Vega",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25402",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1762,
+        "Municipio": "La Vega",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25426",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 26,
+        "Municipio": "Macheta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25426",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 224,
+        "Municipio": "Macheta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25426",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 15,
+        "Municipio": "Macheta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25426",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 663,
+        "Municipio": "Macheta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25430",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 200,
+        "Municipio": "Madrid",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25430",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 2294,
+        "Municipio": "Madrid",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25430",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 645,
+        "Municipio": "Madrid",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25430",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 5607,
+        "Municipio": "Madrid",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25436",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 29,
+        "Municipio": "Manta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25436",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 78,
+        "Municipio": "Manta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25436",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 30,
+        "Municipio": "Manta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25436",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 195,
+        "Municipio": "Manta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25438",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 68,
+        "Municipio": "Medina",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25438",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 152,
+        "Municipio": "Medina",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25438",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 52,
+        "Municipio": "Medina",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25438",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 932,
+        "Municipio": "Medina",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25473",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 213,
+        "Municipio": "Mosquera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25473",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 290,
+        "Municipio": "Mosquera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25473",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 279,
+        "Municipio": "Mosquera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25473",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2395,
+        "Municipio": "Mosquera",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25483",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 15,
+        "Municipio": "Nariño",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25483",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 177,
+        "Municipio": "Nariño",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25483",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 4,
+        "Municipio": "Nariño",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25483",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 345,
+        "Municipio": "Nariño",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25486",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 42,
+        "Municipio": "Nemocón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25486",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 189,
+        "Municipio": "Nemocón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25486",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 22,
+        "Municipio": "Nemocón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25486",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 605,
+        "Municipio": "Nemocón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25488",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 49,
+        "Municipio": "Nilo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25488",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 13,
+        "Municipio": "Nilo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25489",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 12,
+        "Municipio": "Nimaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25489",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 56,
+        "Municipio": "Nimaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25489",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 10,
+        "Municipio": "Nimaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25491",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 10,
+        "Municipio": "Nocaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25491",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 39,
+        "Municipio": "Nocaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25491",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 28,
+        "Municipio": "Nocaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25491",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 241,
+        "Municipio": "Nocaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25506",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 4355,
+        "Municipio": "Venecia",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25506",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 8237,
+        "Municipio": "Venecia",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25506",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 325,
+        "Municipio": "Venecia",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25506",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 15640,
+        "Municipio": "Venecia",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25518",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 9,
+        "Municipio": "Paime",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25518",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 9,
+        "Municipio": "Paime",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25518",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 19,
+        "Municipio": "Paime",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25518",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 18,
+        "Municipio": "Paime",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25524",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 2242,
+        "Municipio": "Pandi",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25524",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 4726,
+        "Municipio": "Pandi",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25524",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 329,
+        "Municipio": "Pandi",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25524",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 119693,
+        "Municipio": "Pandi",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25572",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 70,
+        "Municipio": "Puerto Salgar",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25572",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 122,
+        "Municipio": "Puerto Salgar",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25572",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 55,
+        "Municipio": "Puerto Salgar",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25572",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1027,
+        "Municipio": "Puerto Salgar",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25580",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 3,
+        "Municipio": "Pulí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25580",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 23,
+        "Municipio": "Pulí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25580",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 218,
+        "Municipio": "Pulí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25594",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 46,
+        "Municipio": "Quetame",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25594",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 48,
+        "Municipio": "Quetame",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25594",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 49,
+        "Municipio": "Quetame",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25594",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 480,
+        "Municipio": "Quetame",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25596",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 115,
+        "Municipio": "Quipile",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25596",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1805,
+        "Municipio": "Quipile",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25596",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 115,
+        "Municipio": "Quipile",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25596",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 6,
+        "Municipio": "Quipile",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25596",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 269118,
+        "Municipio": "Quipile",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25599",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 34,
+        "Municipio": "Apulo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25599",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 123,
+        "Municipio": "Apulo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25599",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 83,
+        "Municipio": "Apulo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25599",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1222,
+        "Municipio": "Apulo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25645",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 29,
+        "Municipio": "San Antonio del Tequendama",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25645",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 792,
+        "Municipio": "San Antonio del Tequendama",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25645",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 140,
+        "Municipio": "San Antonio del Tequendama",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25645",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Heroína",
+        "Total_Delitos": 15,
+        "Municipio": "San Antonio del Tequendama",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25645",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2911,
+        "Municipio": "San Antonio del Tequendama",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25649",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 58,
+        "Municipio": "San Bernardo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25649",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 304,
+        "Municipio": "San Bernardo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25649",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 97,
+        "Municipio": "San Bernardo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25649",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1226,
+        "Municipio": "San Bernardo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25653",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 2,
+        "Municipio": "San Cayetano",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25653",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 11,
+        "Municipio": "San Cayetano",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25658",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 255,
+        "Municipio": "San Francisco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25658",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 617,
+        "Municipio": "San Francisco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25658",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 38,
+        "Municipio": "San Francisco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25658",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 30129,
+        "Municipio": "San Francisco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25662",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 183,
+        "Municipio": "San Juan de Río Seco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25662",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 288,
+        "Municipio": "San Juan de Río Seco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25662",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 18,
+        "Municipio": "San Juan de Río Seco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25662",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1462,
+        "Municipio": "San Juan de Río Seco",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25718",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 42,
+        "Municipio": "Sasaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25718",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 215,
+        "Municipio": "Sasaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25718",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 58,
+        "Municipio": "Sasaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25718",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 525,
+        "Municipio": "Sasaima",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25736",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 3450,
+        "Municipio": "Sesquilé",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25740",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 12,
+        "Municipio": "Sibaté",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25740",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 44,
+        "Municipio": "Sibaté",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25740",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 42,
+        "Municipio": "Sibaté",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25740",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 590,
+        "Municipio": "Sibaté",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25745",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 44,
+        "Municipio": "Simijaca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25745",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 70,
+        "Municipio": "Simijaca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25745",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 21,
+        "Municipio": "Simijaca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25745",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 945,
+        "Municipio": "Simijaca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25754",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 5,
+        "Municipio": "Soacha",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25754",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 24,
+        "Municipio": "Soacha",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25754",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 77,
+        "Municipio": "Soacha",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25758",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 540,
+        "Municipio": "Sopó",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25758",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 3467,
+        "Municipio": "Sopó",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25758",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 1297,
+        "Municipio": "Sopó",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25758",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 3189,
+        "Municipio": "Sopó",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25769",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 3,
+        "Municipio": "Subachoque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25769",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 44,
+        "Municipio": "Subachoque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25769",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 14,
+        "Municipio": "Subachoque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25769",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 733,
+        "Municipio": "Subachoque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25772",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 28,
+        "Municipio": "Suesca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25772",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 119,
+        "Municipio": "Suesca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25772",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 35,
+        "Municipio": "Suesca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25772",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 580,
+        "Municipio": "Suesca",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25777",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 16779,
+        "Municipio": "Supatá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25777",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 50851,
+        "Municipio": "Supatá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25777",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 2693,
+        "Municipio": "Supatá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25777",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1468435,
+        "Municipio": "Supatá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25781",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 15,
+        "Municipio": "Sutatausa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25781",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 87,
+        "Municipio": "Sutatausa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25793",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 7,
+        "Municipio": "Tausa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25793",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 29,
+        "Municipio": "Tausa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25793",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 1,
+        "Municipio": "Tausa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25793",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 65,
+        "Municipio": "Tausa",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25797",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 31,
+        "Municipio": "Tena",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25797",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 14,
+        "Municipio": "Tena",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25797",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 13,
+        "Municipio": "Tena",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25797",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1167,
+        "Municipio": "Tena",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25799",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 389,
+        "Municipio": "Tenjo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25799",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 739,
+        "Municipio": "Tenjo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25799",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 357,
+        "Municipio": "Tenjo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25799",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 94743,
+        "Municipio": "Tenjo",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25805",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 2,
+        "Municipio": "Tibacuy",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25807",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 238,
+        "Municipio": "Tibirita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25807",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 383,
+        "Municipio": "Tibirita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25807",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 20,
+        "Municipio": "Tibirita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25807",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 110,
+        "Municipio": "Tibirita",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25817",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 51,
+        "Municipio": "Tocancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25817",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 772,
+        "Municipio": "Tocancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25817",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 90,
+        "Municipio": "Tocancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25817",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2932,
+        "Municipio": "Tocancipá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25823",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 8,
+        "Municipio": "Topaipí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25823",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 7,
+        "Municipio": "Topaipí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25823",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 136,
+        "Municipio": "Topaipí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25823",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 1770,
+        "Municipio": "Topaipí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25839",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 20,
+        "Municipio": "Ubalá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25839",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 640,
+        "Municipio": "Ubalá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25839",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 95,
+        "Municipio": "Ubalá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25839",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 4063,
+        "Municipio": "Ubalá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25841",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 152,
+        "Municipio": "Ubaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25841",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 3,
+        "Municipio": "Ubaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25841",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 863,
+        "Municipio": "Ubaque",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25843",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 2699,
+        "Municipio": "Ubate",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25845",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 63,
+        "Municipio": "Une",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25845",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 75,
+        "Municipio": "Une",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25845",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 57,
+        "Municipio": "Une",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25845",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 628,
+        "Municipio": "Une",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25851",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 11,
+        "Municipio": "Útica",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25851",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 105,
+        "Municipio": "Útica",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25851",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 69,
+        "Municipio": "Útica",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25851",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 290,
+        "Municipio": "Útica",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25862",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 20,
+        "Municipio": "Vergara",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25862",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 105,
+        "Municipio": "Vergara",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25862",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 73,
+        "Municipio": "Vergara",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25862",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 737,
+        "Municipio": "Vergara",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25867",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 7,
+        "Municipio": "Vianí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25867",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 45,
+        "Municipio": "Vianí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25867",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 23,
+        "Municipio": "Vianí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25867",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 336,
+        "Municipio": "Vianí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25871",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 7,
+        "Municipio": "Villagómez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25871",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 34,
+        "Municipio": "Villagómez",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25875",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 293,
+        "Municipio": "Villeta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25875",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1338,
+        "Municipio": "Villeta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25875",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 326,
+        "Municipio": "Villeta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25875",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 8848,
+        "Municipio": "Villeta",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25878",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 159,
+        "Municipio": "Viotá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25878",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 1557,
+        "Municipio": "Viotá",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25885",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 68,
+        "Municipio": "Yacopí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25885",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Cocaína",
+        "Total_Delitos": 108,
+        "Municipio": "Yacopí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25885",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 585,
+        "Municipio": "Yacopí",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25898",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 100,
+        "Municipio": "Zipacón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25898",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Bazuco",
+        "Total_Delitos": 25,
+        "Municipio": "Zipacón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25898",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Marihuana",
+        "Total_Delitos": 92,
+        "Municipio": "Zipacón",
+        "Grupo": "Estupefacientes"
+    },
+    {
+        "cod mun": "25899",
+        "Delito": "Incautación Estupefacientes",
+        "Modalidad": "Gramos Base De Coca",
+        "Total_Delitos": 63,
+        "Municipio": "Zipaquirá",
+        "Grupo": "Estupefacientes"
+    }
+]
