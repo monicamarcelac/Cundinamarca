@@ -1,0 +1,86 @@
+[
+    {
+        "Group": "Hombres 0-5",
+        "all data": -8.56698423920521e-03,
+        " top 50": 1.66602099041033e-02,
+        "No outliers in top 50": 0.151645144221726
+    },
+    {
+        "Group": "Hombres 6-11",
+        "all data": -5.83556051706355e-03,
+        " top 50": 2.09495874889735e-02,
+        "No outliers in top 50": 0.154722946693769
+    },
+    {
+        "Group": "Hombres 12-17",
+        "all data": -1.12496944587138e-02,
+        " top 50": 1.09131567580404e-03,
+        "No outliers in top 50": 0.122303539156814
+    },
+    {
+        "Group": "Hombres 18-28",
+        "all data": -4.74489218678449e-03,
+        " top 50": 1.27326817780944e-02,
+        "No outliers in top 50": 0.150182640272673
+    },
+    {
+        "Group": "Hombres 29-59",
+        "all data": 1.35426620335528e-04,
+        " top 50": 2.87109666920905e-02,
+        "No outliers in top 50": 0.171468939428124
+    },
+    {
+        "Group": "Hombres 60+",
+        "all data": 3.36398714626763e-02,
+        " top 50": 0.111445218148906,
+        "No outliers in top 50": 0.325878819380496
+    },
+    {
+        "Group": "Total_Hombres",
+        "all data": -3.87389971455872e-04,
+        " top 50": 3.10150157375967e-02,
+        "No outliers in top 50": 0.179347604108572
+    },
+    {
+        "Group": "Mujeres 0--5",
+        "all data": -8.21951829775478e-03,
+        " top 50": 1.83929954913966e-02,
+        "No outliers in top 50": 0.153625747864033
+    },
+    {
+        "Group": "Mujeres 6-11",
+        "all data": -6.89914911774221e-03,
+        " top 50": 1.85213802848576e-02,
+        "No outliers in top 50": 0.148959771912769
+    },
+    {
+        "Group": "Mujeres 12-17",
+        "all data": -6.06676551811295e-03,
+        " top 50": 1.95872861045964e-02,
+        "No outliers in top 50": 0.146994637458003
+    },
+    {
+        "Group": "Mujeres 18-28",
+        "all data": -3.93547770938632e-03,
+        " top 50": 2.88879474810893e-02,
+        "No outliers in top 50": 0.166583840147861
+    },
+    {
+        "Group": "Mujeres 29-59",
+        "all data": -3.06289391237317e-04,
+        " top 50": 3.11001299433366e-02,
+        "No outliers in top 50": 0.166451698316366
+    },
+    {
+        "Group": "Mujeres 60+",
+        "all data": 3.39315345393064e-02,
+        " top 50": 0.104286738710541,
+        "No outliers in top 50": 0.308236914903032
+    },
+    {
+        "Group": "Total_Mujeres",
+        "all data": 7.52173611065417e-04,
+        " top 50": 3.7505626878179e-02,
+        "No outliers in top 50": 0.182770526774864
+    }
+]
